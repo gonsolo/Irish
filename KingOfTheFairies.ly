@@ -18,7 +18,7 @@
                 \new Staff \relative c' {
                         \tempo 4 = 120
                         \key d \major
-
+                        %\unfoldRepeats { % midi
                         \repeat volta 2 {
                                 \partial 4 b4 |
                                 \set chordChanges = ##f
@@ -33,6 +33,7 @@
                                 b4 e, g8 fis e es |
                                 e2. 
                         }
+                        %}
                         \partial 4 d'4 |
                         \set chordChanges = ##f
 
