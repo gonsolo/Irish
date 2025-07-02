@@ -1,8 +1,8 @@
-view: KingOfTheFairies.pdf
+view: Irish.pdf
 	evince $<
-KingOfTheFairies.pdf: KingOfTheFairies.ly
+Irish.pdf: Irish.ly
 	lilypond $<
 clean:
-	rm -f KingOfTheFairies.pdf KingOfTheFairies.midi
+	rm -f Irish.pdf Irish.midi
 edit:
-	vi KingOfTheFairies.ly
+	vi Irish.ly
