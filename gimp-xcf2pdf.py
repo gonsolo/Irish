@@ -1,0 +1,6 @@
+p = Gimp.get_pdb().lookup_procedure('file-pdf-export')
+c = p.create_config()
+c.set_property('image', Gimp.get_images()[0])
+c.set_property('file', Gio.File.new_for_path('IrishRest.pdf'))
+c.set_property('layers-as-pages', True)
+p.run(c)
