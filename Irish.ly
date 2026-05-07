@@ -515,3 +515,48 @@
         }
         %\midi {}
 }
+
+\score {
+        \header {
+                piece = "Art O'Keefe's (The Munster Bank)"
+        }
+        <<
+                \chords {
+                        a2 e a4 e a2
+                        a2 e a4 e a2
+                        
+                        a2 e a4 e a2
+                        a2 e a4 e a2
+                }
+                \new Staff \relative c'' {
+                        \time 2/4
+                        \key a \major
+                        \repeat volta 2 {
+                                a8. e16 fis8 a |
+                                b8 cis d8 b |
+                                cis8 a b8 gis |
+                                a8 b cis8 e |
+                                
+                                a,8. e16 fis8 a |
+                                b8 cis d8 b |
+                                cis8 a b8 gis |
+                                a8 a a4 |
+                        }
+                        \repeat volta 2 {
+                                cis8. a16 cis8 a |
+                                b8 cis d8 b |
+                                cis8. a16 b8 gis |
+                                a8 b cis8 e |
+                                
+                                cis8. a16 cis8 a |
+                                b8 cis d8 b |
+                                cis8 a b8 gis |
+                                a8 a a4 |
+                        }
+                }
+        >>
+        \layout {
+                indent = 4.0\cm
+        }
+        %\midi {}
+}
