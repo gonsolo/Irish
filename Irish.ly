@@ -522,36 +522,36 @@
         }
         <<
                 \chords {
-                        a2 e a4 e a2
-                        a2 e a4 e a2
-                        
-                        a2 e a4 e a2
-                        a2 e a4 e a2
+                        a2 a e e
+                        a a e e4 a4
+
+                        a2 a e e
+                        a a e e4 a4
                 }
                 \new Staff \relative c'' {
                         \time 2/4
                         \key a \major
                         \repeat volta 2 {
-                                a8. e16 fis8 a |
-                                b8 cis d8 b |
-                                cis8 a b8 gis |
-                                a8 b cis8 e |
+                                a8. fis16 e8 fis |
+                                a8 b cis e |
+                                fis e cis a |
+                                b a fis e |
                                 
-                                a,8. e16 fis8 a |
-                                b8 cis d8 b |
-                                cis8 a b8 gis |
-                                a8 a a4 |
+                                a8. fis16 e8 fis |
+                                a8 b cis e |
+                                fis e cis a |
+                                b a a4 |
                         }
                         \repeat volta 2 {
-                                cis8. a16 cis8 a |
-                                b8 cis d8 b |
-                                cis8. a16 b8 gis |
-                                a8 b cis8 e |
+                                fis'8. e16 cis8 e |
+                                fis e e4 |
+                                a8. fis16 e8 cis |
+                                b8 a fis8 e |
                                 
-                                cis8. a16 cis8 a |
-                                b8 cis d8 b |
-                                cis8 a b8 gis |
-                                a8 a a4 |
+                                a8. fis16 e8 fis |
+                                a8 b cis e |
+                                fis e cis a |
+                                b a a4 |
                         }
                 }
         >>
