@@ -32,3 +32,4 @@
 
 \include "the-town.ly"
 \include "caledonia.ly"
+\include "lounge-bar.ly"
