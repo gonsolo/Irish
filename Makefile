@@ -1,9 +1,9 @@
-view: Irish.pdf
+view: irish.pdf
 	papers $<
-Irish.pdf: Irish.ly
-	lilypond $<
+irish.pdf: $(wildcard *.ly)
+	lilypond irish.ly
 .PHONY: clean edit
 clean:
-	rm -f Irish.pdf Irish.midi
+	rm -f irish.pdf irish.midi
 edit:
-	vi Irish.ly
+	vim irish.ly
