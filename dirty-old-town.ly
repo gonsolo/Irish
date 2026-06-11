@@ -39,3 +39,44 @@
         }
         %\midi {}
 }
+
+\markup {
+  \fill-line {
+    \hspace #1
+    \column {
+      \line { \bold "1." }
+      \line { I met my love by the gas works wall }
+      \line { Dreamed a dream by the old canal }
+      \line { I kissed my girl by the factory wall }
+      \line { Dirty old town, dirty old town }
+      \vspace #1
+      \line { \bold "2." }
+      \line { Clouds are drifting across the moon }
+      \line { Cats are prowling on their beat }
+      \line { Spring's a girl from the streets at night }
+      \line { Dirty old town, dirty old town }
+      \vspace #1
+      \line { \bold "3." }
+      \line { I heard a siren from the docks }
+      \line { Saw a train set the night on fire }
+      \line { I smelled the spring on the smoky wind }
+      \line { Dirty old town, dirty old town }
+    }
+    \hspace #2
+    \column {
+      \line { \bold "4." }
+      \line { I'm gonna make me a good sharp axe }
+      \line { Shining steel tempered in the fire }
+      \line { I'll chop you down like an old dead tree }
+      \line { Dirty old town, dirty old town }
+      \vspace #1
+      \line { \bold "5." }
+      \line { I met my love by the gas works wall }
+      \line { Dreamed a dream by the old canal }
+      \line { I kissed my girl by the factory wall }
+      \line { Dirty old town, dirty old town }
+      \line { Dirty old town, dirty old town }
+    }
+    \hspace #1
+  }
+}
