@@ -29,15 +29,15 @@
                         g4 e4 e4 d8 e8 |
                         g4 g4 a4 g8 a8 |
                         b4 b4 b8 a8 g8 a8 |
-                        b4 d4 d4 b8 a8 |
-                        b4 e,4 e4 d8 e8 |
+                        b4 d,4 d4 b'8 a8 |
+                        g4 e4 e4 d8 e8 |
                         g4 g4 a4 g8 a8 |
                         b4 e4 d8 b8 g8 b8 |
                         g4 e4 e4 b'4 |
                         d8 b8 d8 e8 d4 b4 |
                         d8 b8 d8 e8 d4 b4 |
                         c4 b4 b8 a8 g8 a8 |
-                        b4 d4 d4 b8 a8 |
+                        b4 d,4 d4 b'8 a8 |
                         g4 e4 e4 d8 e8 |
                         g4 g4 a4 g8 a8 |
                         b4 e4 d8 b8 a8 b8 |
