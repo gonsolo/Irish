@@ -4,10 +4,16 @@
         }
         <<
                 \chords {
-                        g1 g1 a1:m d1 g1 g1 g1 d1
-                        g1 g1 a1:m d1 g1 g1 g1 d1
-                        g1 g1 a1:m d1 g1 g1 g1 d1
-                        g1 g1 a1:m d1 g1 g1 g1 d1
+                        g1 g1 a1:m a2:m d2 g1 g1 a1:m
+                        \alternative {
+                                \volta 1 { c2 d2 }
+                                \volta 2 { c2 d2 }
+                        }
+                        g1 g1 a1:m a2:m d2 g1 g1 a1:m
+                        \alternative {
+                                \volta 1 { c2 d2 }
+                                \volta 2 { c2 d2 }
+                        }
                 }
                 \new Staff \relative c'' {
                         \time 4/4
