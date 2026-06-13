@@ -5,10 +5,13 @@
         <<
                 \chords {
                         s4.
-                        c2. f2. bes2. f2.
-                        c2. f2. c2. f2.
-                        c2. f2. c2. f2.
-                        f2. f2. c2. c4.
+                        c2. f2. bes2.
+                        c2. c2.
+                        f2. f2. c2. f2.
+                        f2. f2. c2. d2.:m
+                        f2. f2.
+                        bes4 c2
+                        c4.
                 }
                 \new Staff \relative c' {
                         \time 3/4
@@ -18,7 +21,8 @@
                                 g4. a8 c4 |
                                 a4 g4. f8 |
                                 d4 c4 bes4 |
-                                c2 a'8 bes8 |
+                                c2. |
+                                a'4 bes4 r4 |
                                 c4. d8 c4 |
                                 a4 c,4 d8 f8 |
                                 g4. f8 g4 |
