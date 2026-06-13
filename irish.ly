@@ -27,6 +27,7 @@
 \include "has-sorrow.ly"
 \include "dirty-old-town.ly"
 \include "whiskey-in-the-jar.ly"
+\include "parting-glass.ly"
 
 \pageBreak
 
