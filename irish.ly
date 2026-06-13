@@ -22,6 +22,7 @@
 \include "road-to-lisdoonvarna.ly"
 \include "southwind.ly"
 \include "old-copperplate.ly"
+\include "new-copperplate.ly"
 \include "hewlett.ly"
 \include "art-okeefes.ly"
 \include "has-sorrow.ly"
