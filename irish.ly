@@ -29,6 +29,7 @@
 \include "dirty-old-town.ly"
 \include "whiskey-in-the-jar.ly"
 \include "parting-glass.ly"
+\include "cliffs-of-dooneen.ly"
 
 \pageBreak
 
