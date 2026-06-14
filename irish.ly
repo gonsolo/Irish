@@ -14,6 +14,7 @@
 \include "king-of-the-fairies.ly"
 \include "swallowtail-jig.ly"
 \include "kesh-jig.ly"
+\include "lilting-banshee.ly"
 
 \pageBreak
 
