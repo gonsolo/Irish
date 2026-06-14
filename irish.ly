@@ -25,6 +25,7 @@
 \include "new-copperplate.ly"
 \include "hewlett.ly"
 \include "art-okeefes.ly"
+\include "okeefes-slide.ly"
 \include "has-sorrow.ly"
 \include "dirty-old-town.ly"
 \include "whiskey-in-the-jar.ly"
