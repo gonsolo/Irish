@@ -73,3 +73,4 @@
 \include "dirty-old-town.ly"
 \include "the-town.ly"
 \include "caledonia.ly"
+\include "johnny-i-hardly-knew-ya.ly"
