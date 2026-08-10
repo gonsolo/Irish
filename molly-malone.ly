@@ -4,14 +4,14 @@
         }
         <<
                 \chords {
-                        g2. g2. g2. g2.
-                        g2. d2.:7 d2.:7 g2.
+                        g2. e2.:m a2.:m d2.
+                        g2. b2.:m a2.:m d2.
 
-                        g2. g2. g2. g2.
-                        g2. d2.:7 d2.:7 g2.
+                        g2. e2.:m a2.:m d2.
+                        g2. b2.:m g4. d4. g2.
 
-                        g2. g2. g2. g2.
-                        g2. d2.:7 d2.:7 g2.
+                        g2. e2.:m a2.:m d2.
+                        g2. b2.:m g4. d4. g2.
                 }
                 \new Staff {
                         \time 3/4
