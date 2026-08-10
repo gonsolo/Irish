@@ -15,9 +15,6 @@
 \include "swallowtail-jig.ly"
 \include "kesh-jig.ly"
 \include "lilting-banshee.ly"
-
-\pageBreak
-
 \include "maggie-in-the-woods.ly"
 \include "morrisons-jig.ly"
 \include "road-to-lisdoonvarna.ly"
@@ -28,13 +25,10 @@
 \include "art-okeefes.ly"
 \include "okeefes-slide.ly"
 \include "has-sorrow.ly"
-\include "dirty-old-town.ly"
 \include "whiskey-in-the-jar.ly"
 \include "parting-glass.ly"
+\include "lounge-bar.ly"
 \include "cliffs-of-dooneen.ly"
-
-\pageBreak
-
+\include "dirty-old-town.ly"
 \include "the-town.ly"
 \include "caledonia.ly"
-\include "lounge-bar.ly"

@@ -40,6 +40,8 @@
         %\midi {}
 }
 
+\noPageBreak
+
 \markup {
   \fill-line {
     \hspace #1
