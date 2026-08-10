@@ -33,6 +33,7 @@
 \include "king-of-the-fairies.ly"
 \include "old-copperplate.ly"
 \include "new-copperplate.ly"
+\include "the-congress.ly"
 \include "parting-glass.ly"
 
 \pageBreak
