@@ -59,7 +59,7 @@
                         e'4 fis'4 g'4 |
                         a'4 g'4 fis'4 |
                         e'4 fis'4 e'4 |
-                        d'2 |
+                        d'2
                 }
         >>
         \layout {
