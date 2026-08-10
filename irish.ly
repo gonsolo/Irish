@@ -78,3 +78,4 @@
 \include "down-by-the-salley-gardens.ly"
 \include "spancil-hill.ly"
 \include "fiddlers-green.ly"
+\include "finnegans-wake.ly"
