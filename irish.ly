@@ -76,3 +76,4 @@
 \include "johnny-i-hardly-knew-ya.ly"
 \include "molly-malone.ly"
 \include "down-by-the-salley-gardens.ly"
+\include "spancil-hill.ly"
