@@ -2,7 +2,7 @@
         \header {
                 piece = "Johnny I Hardly Knew Ya"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         a2.:m a2.:m e2.:m e2.:m
                         a2.:m a2.:m c2. e2.

@@ -2,7 +2,7 @@
         \header {
                 piece = "The Town I Loved So Well"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s4
                         g1 d c g

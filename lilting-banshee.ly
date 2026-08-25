@@ -2,7 +2,7 @@
 	\header {
 		piece = "The Lilting Banshee"
 	}
-	<<
+	\maybeTranspose <<
 		\chords {
 			a2.:m g2. e2.:m g2. a2.:m g2. e2.:m g4. a4.:m
 			a2.:m g2. e2.:m d4. g4. a2.:m g2. e2.:m g4. a4.:m

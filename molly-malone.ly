@@ -2,7 +2,7 @@
         \header {
                 piece = "Molly Malone"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         c2. a2.:m d2.:m g2.
                         c2. e2.:m d2.:m g2.

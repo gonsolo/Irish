@@ -2,7 +2,7 @@
         \header {
                 piece = "Has Sorrow Thy Young Days Shaded"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s8
                         g4. a:m g c

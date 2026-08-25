@@ -2,7 +2,7 @@
         \header {
                 piece = "The Congress"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         a1:m a2:m g2 a1:m
                         g1 a1:m a2:m g2

@@ -2,7 +2,7 @@
         \header {
                 piece = "King of the Fairies"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s4
 

@@ -2,7 +2,7 @@
         \header {
                 piece = "Whiskey in the Jar"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s4
                         d1 d1 b1:m b1:m

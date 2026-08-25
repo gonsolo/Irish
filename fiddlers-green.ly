@@ -2,7 +2,7 @@
         \header {
                 piece = "Fiddler's Green"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s4
                         d2. g2. d2. g2.

@@ -2,7 +2,7 @@
         \header {
                 piece = "Art O'Keefe's (The Munster Bank)"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         a2 a e e
                         a a e e4 a4

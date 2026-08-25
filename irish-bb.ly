@@ -1,10 +1,11 @@
 \version "2.24.4"
 
-#(define transposeForBb #f)
+#(define transposeForBb #t)
 \include "common.ly"
 
 \header {
     title = "Irish Session Songs"
+    subtitle = "B♭ Clarinet"
 }
 
 \layout {

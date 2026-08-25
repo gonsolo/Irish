@@ -2,7 +2,7 @@
         \header {
                 piece = "The Parting Glass"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s4
                         e1:m |

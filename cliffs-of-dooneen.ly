@@ -2,7 +2,7 @@
         \header {
                 piece = "The Cliffs Of Dooneen"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s4.
                         c2. f2. bes2.  c2. c2.

@@ -2,7 +2,7 @@
         \header {
                 piece = "The Road to Lisdoonvarna"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         e2.:m e:m d b:m
                         e2.:m e:m a4. b:m e2.:m

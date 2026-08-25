@@ -2,7 +2,7 @@
 	\header {
 		piece = "O'Keeffe's"
 	}
-	<<
+	\maybeTranspose <<
 		\chords {
 			a2.:m g2. a2.:m g2. a2.:m g2. e2.:m g2.
 			a2.:m e2.:m a2.:m e2.:m g2. d2. e2.:m a2.:m

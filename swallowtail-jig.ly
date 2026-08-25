@@ -2,7 +2,7 @@
         \header {
                 piece = "Swallowtail Jig"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         e2.:m e:m d d
                         e:m e:m d g4. e:m

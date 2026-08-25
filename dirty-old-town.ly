@@ -2,7 +2,7 @@
         \header {
                 piece = "Dirty Old Town"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s2.
                         c1 g1:7 c1 c1:7

@@ -2,7 +2,7 @@
         \header {
                 piece = "Southwind"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s4
                         g2. g d d

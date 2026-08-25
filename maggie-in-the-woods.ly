@@ -2,7 +2,7 @@
         \header {
                 piece = "Maggie in the Woods"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s8
                         g2 c g d

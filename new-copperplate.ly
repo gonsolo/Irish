@@ -2,7 +2,7 @@
         \header {
                 piece = "The New Copperplate"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         g1 g1 a1:m a2:m d2 g1 g1 a1:m
                         \alternative {

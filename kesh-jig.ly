@@ -2,7 +2,7 @@
         \header {
                 piece = "Kesh Jig"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         g2. d e4.:m g e:m d
                         g2. d e4.:m g \alternative {

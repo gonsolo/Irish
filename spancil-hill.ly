@@ -2,7 +2,7 @@
         \header {
                 piece = "Spancil Hill"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s4
                         e2.:m e2.:m d2. d2.

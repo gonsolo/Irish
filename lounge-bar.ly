@@ -2,7 +2,7 @@
         \header {
                 piece = "The Lounge Bar"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s8
                         d2. a2. g2. a2.

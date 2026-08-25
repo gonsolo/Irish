@@ -2,7 +2,7 @@
         \header {
                 piece = "Finnegan's Wake"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s8
                         d1 g1 a1 d1

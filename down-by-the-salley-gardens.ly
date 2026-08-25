@@ -2,7 +2,7 @@
         \header {
                 piece = "Down By The Salley Gardens"
         }
-        <<
+        \maybeTranspose <<
                 \chords {
                         s4 d1 d1 g1 g1 d1 d1 g1 d2.
 

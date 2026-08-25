@@ -2,7 +2,7 @@
   \header {
     piece = "Dougie MacLean - Caledonia"
   }
-  <<
+  \maybeTranspose <<
     \new ChordNames {
       \set chordChanges = ##t
       \chordmode {
