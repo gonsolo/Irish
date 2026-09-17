@@ -79,3 +79,4 @@
 \include "spancil-hill.ly"
 \include "fiddlers-green.ly"
 \include "finnegans-wake.ly"
+\include "four-green-fields.ly"
