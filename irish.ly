@@ -81,3 +81,4 @@
 \include "finnegans-wake.ly"
 \include "four-green-fields.ly"
 \include "parting-glass-dm.ly"
+\include "blacksmith.ly"
