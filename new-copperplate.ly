@@ -17,6 +17,7 @@
                 }
                 \new Staff \relative c'' {
                         \time 4/4
+                        \tempo 4 = 120
                         \key g \major
                         \repeat volta 2 {
                                 g4 d'8 g,8 b8 g8 d'8 g,8 |

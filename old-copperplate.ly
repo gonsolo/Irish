@@ -12,6 +12,7 @@
                 }
                 \new Staff \relative c'' {
                         \time 4/4
+                        \tempo 4 = 120
                         \key a \dorian
                         \repeat volta 2 {
                                 a4 e8 a c a a e' |
